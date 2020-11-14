@@ -1,0 +1,57 @@
+TCODE 				Title of people
+STATE ZIP MAILCODE		Locations
+PVASTATE			If in the same state
+DOB				Age
+MDMAUD				Frequency and amount of payment
+RECINHSE 			If donated in a meeting
+RECPGVG				Planned helping
+HOMEOWNR			If has a house
+NUMCHLD				Number of children
+INCOME				Household income
+GENDER				Gender
+HIT				Number of responses over mail
+
+
+These variables should be considered separately and conclude the type of way of donate
+
+MBCRAFT                     Buy Craft Hobby
+MBGARDEN                    Buy Gardening
+MBBOOKS                     Buy Books
+MBCOLECT                    Buy Collectables
+MAGFAML                     Buy General Family Mags
+MAGFEM                      Buy Female Mags
+MAGMALE                     Buy Sports Mags
+PUBGARDN                    Gardening Pubs
+PUBCULIN                    Culinary Pubs
+PUBHLTH                     Health Pubs
+PUBDOITY                    Do It Yourself Pubs
+PUBNEWFN                    News / Finance Pubs
+PUBPHOTO                    Photography Pubs
+PUBOPP                      Opportunity Seekers Pubs
+
+These variables should conclude the hobbies of donors:
+
+COLLECT1                    COLLECTABLE (Y/N)
+VETERANS                    VETERANS (Y/N)
+BIBLE                       BIBLE READING (Y/N)
+CATLG                       SHOP BY CATALOG (Y/N)
+HOMEE                       WORK FROM HOME (Y/N)
+PETS                        HOUSEHOLD PETS (Y/N)
+CDPLAY                      CD PLAYER OWNERS (Y/N)
+STEREO                      STEREO/RECORDS/TAPES/CD (Y/N)
+PCOWNERS                    HOME PC OWNERS/USERS
+PHOTO                       PHOTOGRAPHY (Y/N)
+CRAFTS                      CRAFTS (Y/N)
+FISHER                      FISHING (Y/N)
+GARDENIN                    GARDENING (Y/N)
+BOATS                       POWER BOATING (Y/N)
+WALKER                      WALK FOR HEALTH (Y/N)
+KIDSTUFF                    BUYS CHILDREN'S PRODUCTS (Y/N)
+CARDS                       STATIONARY/CARDS BUYER (Y/N)
+PLATES                      PLATE COLLECTOR (Y/N
+
+
+RFA 						(RECENCY/FREQUENCY/AMOUNT)
+
+
+There are some fields that represent some concluded data that we can use later
