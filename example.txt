@@ -1,0 +1,83 @@
+DOMAIN                      DOMAIN/Cluster code. A nominal or symbolic field.
+                            could be broken down by bytes as explained below.
+
+HOMEOWNR                    Home Owner Flag
+                            H = Home owner
+                            U = Unknown
+
+NUMCHLD                     NUMBER OF CHILDREN
+INCOME                      HOUSEHOLD INCOME
+
+WEALTH1                     Wealth Rating
+HIT                         MOR Flag # HIT (Mail Order Response)
+                            Indicates total number of known times the donor has
+                            responded to a mail order offer other than PVA's.
+
+SOLP3                        SOLICIT LIMITATION CODE P3
+
+MAJOR                       Major ($$) Donor Flag
+                            _ = Not a Major Donor
+                            X = Major Donor
+
+WEALTH2                     Wealth Rating
+                            Wealth rating uses median family income and
+                            population statistics from each area to
+                            index relative wealth within each state
+                            The segments are denoted 0-9, with 9 being
+                            the highest income group and zero being the
+                            lowest. Each rating has a different meaning
+                            within each state.
+
+POP902                      Number of Families
+POP903                      Number of Households
+
+HHD11                       Percent Single Female Householder
+HHP1                        Median Person Per Household
+HUPA7                       Percent Renter Occupied Mobile Homes or Trailers
+
+IC2                         Median Family Income in hundreds
+
+RFA_2                       Donor's RFA status as of 97NK promotion date
+RFA_3                       Donor's RFA status as of 96NK promotion date
+RFA_4                       Donor's RFA status as of 96TK promotion date
+RFA_5                       Donor's RFA status as of 96SK promotion date
+RFA_6                       Donor's RFA status as of 96LL promotion date
+RFA_7                       Donor's RFA status as of 96G1 promotion date
+RFA_8                       Donor's RFA status as of 96GK promotion date
+RFA_9                       Donor's RFA status as of 96CC promotion date
+RFA_10                      Donor's RFA status as of 96WL promotion date
+RFA_11                      Donor's RFA status as of 96X1 promotion date
+RFA_12                      Donor's RFA status as of 96XK promotion date
+RFA_13                      Donor's RFA status as of 95FS promotion date
+RFA_14                      Donor's RFA status as of 95NK promotion date
+RFA_15                      Donor's RFA status as of 95TK promotion date
+RFA_16                      Donor's RFA status as of 95LL promotion date
+RFA_17                      Donor's RFA status as of 95G1 promotion date
+RFA_18                      Donor's RFA status as of 95GK promotion date
+RFA_19                      Donor's RFA status as of 95CC promotion date
+RFA_20                      Donor's RFA status as of 95WL promotion date
+RFA_21                      Donor's RFA status as of 95X1 promotion date
+RFA_22                      Donor's RFA status as of 95XK promotion date
+RFA_23                      Donor's RFA status as of 94FS promotion date
+RFA_24                      Donor's RFA status as of 94NK promotion date
+
+
+
+
+CARDPROM                    Lifetime number of card promotions received to
+                            date. Card promotions are promotion type FS, GK,
+                            TK, SK, NK, XK, UF, UU.
+MAXADATE                    Date of the most recent promotion received (in
+                            YYMM, Year/Month format)
+NUMPROM                     Lifetime number of promotions received to date
+CARDPM12                    Number of card promotions received in the last
+                            12 months (in terms of calendar months translates
+                            into 9603-9702)
+NUMPRM12                    Number of promotions received in the last 12
+                            months (in terms of calendar months translates
+                            into 9603-9702)
+
+MAXRAMNT                    Dollar amount of largest gift to date
+MAXRDATE                    Date associated with the largest gift to date
+LASTGIFT                    Dollar amount of most recent gift
+LASTDATE                    Date associated with the most recent gift
