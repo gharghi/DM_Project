@@ -5,13 +5,31 @@ DOB				Age
 MDMAUD				Frequency and amount of payment
 RECINHSE 			If donated in a meeting
 RECPGVG				Planned helping
+DOMAIN        --Type of house residency
 HOMEOWNR			If has a house
 NUMCHLD				Number of children
 INCOME				Household income
 GENDER				Gender
 HIT				Number of responses over mail
+WEALTH1   Wealth of donor
+DATASRCE  The third party source
+
+MALEMILI                    % Males active in the Military
+MALEVET                     % Males Veterans
+VIETVETS                    % Vietnam Vets
+WWIIVETS                    % WWII Vets
+LOCALGOV                    % Employed by Local Gov
+STATEGOV                    % Employed by State Gov
+FEDGOV                      % Employed by Fed Gov
 
 
+MAJOR         if a major donor
+
+WEALTH2                     Wealth Rating
+GEOCODE
+
+
+ADATE and RFA and RDATE calculate in seperate dataframe
 These variables should be considered separately and conclude the type of way of donate
 
 MBCRAFT                     Buy Craft Hobby
