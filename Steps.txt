@@ -1,0 +1,8 @@
+1- Filtering the columns
+2- Find out the correlation between fields
+3- Fill the missing values by some techniques
+4- Check the outliers 
+5- Feature engineering
+6- Data normalization
+7- Clustering
+8- Visualizations
