@@ -37,29 +37,6 @@ HUPA7                       Percent Renter Occupied Mobile Homes or Trailers
 
 IC2                         Median Family Income in hundreds
 
-RFA_2                       Donor's RFA status as of 97NK promotion date
-RFA_3                       Donor's RFA status as of 96NK promotion date
-RFA_4                       Donor's RFA status as of 96TK promotion date
-RFA_5                       Donor's RFA status as of 96SK promotion date
-RFA_6                       Donor's RFA status as of 96LL promotion date
-RFA_7                       Donor's RFA status as of 96G1 promotion date
-RFA_8                       Donor's RFA status as of 96GK promotion date
-RFA_9                       Donor's RFA status as of 96CC promotion date
-RFA_10                      Donor's RFA status as of 96WL promotion date
-RFA_11                      Donor's RFA status as of 96X1 promotion date
-RFA_12                      Donor's RFA status as of 96XK promotion date
-RFA_13                      Donor's RFA status as of 95FS promotion date
-RFA_14                      Donor's RFA status as of 95NK promotion date
-RFA_15                      Donor's RFA status as of 95TK promotion date
-RFA_16                      Donor's RFA status as of 95LL promotion date
-RFA_17                      Donor's RFA status as of 95G1 promotion date
-RFA_18                      Donor's RFA status as of 95GK promotion date
-RFA_19                      Donor's RFA status as of 95CC promotion date
-RFA_20                      Donor's RFA status as of 95WL promotion date
-RFA_21                      Donor's RFA status as of 95X1 promotion date
-RFA_22                      Donor's RFA status as of 95XK promotion date
-RFA_23                      Donor's RFA status as of 94FS promotion date
-RFA_24                      Donor's RFA status as of 94NK promotion date
 
 
 
