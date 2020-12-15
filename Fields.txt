@@ -193,3 +193,9 @@ TCODE                       Donor title code
                             132    = YOUR IMPERIAL MAJEST
                             135    = M. ET MME.
                             210    = PROF.
+
+AVGGIFT                     Average dollar amount of gifts to date
+RAMNTALL                    Dollar amount of lifetime gifts to date
+NGIFTALL                    Number of lifetime gifts to date
+
+
