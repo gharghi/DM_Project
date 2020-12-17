@@ -188,7 +188,7 @@ MDMAUD                      The Major Donor Matrix code
 DOMAIN                      DOMAIN/Cluster code. A nominal or symbolic field.
                             could be broken down by bytes as explained below.
 
-                            1st byte = Urbanicity level of the donor's neighborhood
+                            1st byte = Urbanity level of the donor's neighborhood
                               U=Urban
                               C=City
                               S=Suburban
